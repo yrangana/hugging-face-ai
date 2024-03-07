@@ -1,0 +1,8 @@
+transformers==4.38.2
+ipykernel==6.29.3
+ipython==8.22.2
+jupter_client==8.6.0
+jupyter_core==5.7.1
+torch==2.2.1
+torchvision==0.17.1
+torchaudio==2.2.1
